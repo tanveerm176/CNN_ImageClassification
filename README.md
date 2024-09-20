@@ -7,6 +7,8 @@ Our final model achieved 90% accuracy on the holdout test set, we placed 2nd in 
 
 You can read more about our project in the [Final Report](https://github.com/tanveerm176/CNN_ImageClassification/blob/main/DeepLearning_FinalReport.pdf), view our [Presentation Slides](https://github.com/tanveerm176/CNN_ImageClassification/blob/main/MuhammadTanveer_KenKo_DL_Presentation.pdf) for a quicker summary of our work, or see the implementation in our [Jupyter Notebook](https://github.com/tanveerm176/CNN_ImageClassification/blob/main/CNN_ImageClassification_DeepLearning.ipynb).
 
+The following Python libraries/frameworks were used for this project: TensorFlow, Keras, Scikit-Learn, NumPy, Matplotlib
+
 Here is a breakdown of how we iterated each model to increase the accuracy from 56% to 90%. The project was spit into 5 stages, with stages 3, 4, and 5 soley for training the models. Stages 1 and 2 comrpised of retreiving the data from the college server/uploading it to GDrive, and splitting the dataset into test, train, and validate sets. 
 
 In the end we ended up training over 20 models using Python's TensorFlow Keras library, the entire process took  
