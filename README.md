@@ -12,36 +12,36 @@ Here is a breakdown of how we iterated each model to increase the accuracy from 
 In the end we ended up training over 20 models using Python's TensorFlow Keras library, the entire process took  
 
 ## Stage 1 and Stage 2
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ## Stage 3
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](./images/image-1.png)
+![alt text](./images/image-2.png)
+![alt text](./images/image-3.png)
 
 ## Stage 4
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
+![alt text](./images/image-4.png)
+![alt text](./images/image-5.png)
+![alt text](./images/image-6.png)
+![alt text](./images/image-7.png)
+![alt text](./images/image-8.png)
+![alt text](./images/image-9.png)
+![alt text](./images/image-10.png)
 
 ## Stage 5
-![alt text](image-11.png)
-![alt text](image-12.png)
-![alt text](image-13.png)
-![alt text](image-14.png)
-![alt text](image-15.png)
-![alt text](image-16.png)
-![alt text](image-17.png)
+![alt text](./images/image-11.png)
+![alt text](./images/image-12.png)
+![alt text](./images/image-13.png)
+![alt text](./images/image-14.png)
+![alt text](./images/image-15.png)
+![alt text](./images/image-16.png)
+![alt text](./images/image-17.png)
 
 # Final Model
-![alt text](image-18.png)
+![alt text](./images/image-18.png)
 
 ## Dataset Augmentation
-![alt text](image-19.png)
+![alt text](./images/image-19.png)
 
 ## Final Model Detailed
-![alt text](image-20.png)
+![alt text](./images/image-20.png)
