@@ -11,7 +11,15 @@ The following Python libraries/frameworks were used for this project: TensorFlow
 
 Here is a breakdown of how we iterated each model to increase the accuracy from 56% to 90%. The project was spit into 5 stages, with stages 3, 4, and 5 soley for training the models. Stages 1 and 2 comrpised of retreiving the data from the college server/uploading it to GDrive, and splitting the dataset into test, train, and validate sets. 
 
-In the end we ended up training over 20 models using Python's TensorFlow Keras library, the entire process took  
+## **In the end we ended up training over 20 models using Python's TensorFlow Keras library, the entire process took ~200hours**  
+
+## Results
+![alt text](./images/actualPredicted.png)
+![alt text](./images/corrMatrix.png)
+
+### Final Model
+![alt text](./images/image-18.png)
+
 
 ## Stage 1 and Stage 2
 ![alt text](./images/image.png)
